@@ -1,0 +1,11 @@
+# OS
+.DS_Store
+
+# Run artefacts
+*.log
+
+# Private working notes: session handoffs and checkpoints are never published
+docs/sessions/
+
+# Per-user Claude Code settings
+.claude/settings.local.json
